@@ -7,7 +7,7 @@ I build **solutions, not just software**—from scalable web applications to AI-
 ---
 
 ## 🔧 Tech Stack & Skills  
-- **Languages & Frameworks:** PHP, JavaScript, React, Node.js, Python, Java, C++, C#  
+- **Languages & Frameworks:** PHP, JavaScript, React, Next.js, Python, Java, C++, C#  
 - **Databases:** PostgreSQL, MongoDB, MySQL, SQL Server  
 - **Web & APIs:** HTML5, CSS, Bootstrap, jQuery, AJAX, REST APIs  
 - **AI & Data:** LangChain, Hugging Face, Ollama, Python for Data Science/AI  
